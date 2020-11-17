@@ -1,0 +1,5 @@
+# reproducible-workflow-template*__pycache__*
+.trash
+.ipynb_checkpoints
+figures
+data
